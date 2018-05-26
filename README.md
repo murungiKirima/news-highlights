@@ -12,7 +12,7 @@ Users are able to click on each news source and get a list of all the articles o
 A user can read that particular news item from the source directly.
 
 ## Usage.
-You can click this link (https://mk-news-highlights.herokuapp.com/) to launch the app in your browser.
+You can click this link (https://kj-newsource.herokuapp.com/) to launch the app in your browser.
 
 ### Prerequisites.
 1. Language; You need to install python3.6
